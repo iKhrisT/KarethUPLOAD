@@ -7,7 +7,7 @@ const companies = require('./modules/companies');
 const store = require('./modules/store');
 const realezas = require('./modules/realezas');
 const marriages = require('./modules/marriages');
-const userTaxes = require('./modules/user_taxes');
+const userTaxes = require('./taxes/user_taxes');
 const jobs = require('./modules/jobs');
 
 // ─────────────────────────────────────────────
