@@ -1,0 +1,226 @@
+{
+  "1386982526530359427": {
+    "money": 27778,
+    "bank": 0,
+    "lastWork": 1768235668332,
+    "lastCrime": 1762062838406,
+    "lastInvert": 1762060919193,
+    "lastDaily": 0,
+    "inventory": [
+      {
+        "item": "anillo",
+        "color": null,
+        "purchaseDate": 1752507740916
+      }
+    ]
+  },
+  "828014086825443377": {
+    "money": 4644,
+    "bank": 0,
+    "lastWork": 1753124550417,
+    "lastCrime": 0,
+    "lastInvert": 1753057869978,
+    "lastDaily": 0,
+    "inventory": [
+      {
+        "item": "anillo",
+        "color": "morado",
+        "purchaseDate": 1750802852031
+      }
+    ]
+  },
+  "942111668979245106": {
+    "money": 5799066,
+    "bank": 0,
+    "lastWork": 1752625909078,
+    "lastCrime": 0,
+    "lastInvert": 0,
+    "lastDaily": 0,
+    "inventory": [
+      {
+        "item": "anillo",
+        "color": null,
+        "purchaseDate": 1751854530511
+      }
+    ]
+  },
+  "765054356549533746": {
+    "money": 3000,
+    "bank": 315458,
+    "lastWork": 1753157695707,
+    "lastCrime": 1751084899116,
+    "lastInvert": 1753157682828,
+    "lastDaily": 1751086174727,
+    "inventory": []
+  },
+  "1059079887270453308": {
+    "money": 25,
+    "bank": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "lastInvert": 0,
+    "lastDaily": 0,
+    "inventory": []
+  },
+  "1138949736813039677": {
+    "money": 415116,
+    "bank": 24884,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "lastInvert": 1753930870232,
+    "lastDaily": 1753160479583,
+    "inventory": []
+  },
+  "832975403604770830": {
+    "money": 97668,
+    "bank": 2629,
+    "lastWork": 1752162162049,
+    "lastCrime": 0,
+    "lastInvert": 1752162147521,
+    "lastDaily": 0,
+    "inventory": [
+      {
+        "item": "halo",
+        "color": "morado",
+        "purchaseDate": 1751847788197
+      }
+    ]
+  },
+  "1303147501515313284": {
+    "money": 0,
+    "bank": 0,
+    "lastWork": 1774546630876,
+    "lastCrime": 1774546555033,
+    "lastInvert": 1774747718282,
+    "lastDaily": 1774544619292,
+    "inventory": [
+      {
+        "item": "realeza",
+        "color": null,
+        "purchaseDate": 1762276796603
+      }
+    ]
+  },
+  "1020410088588066887": {
+    "money": 100000,
+    "bank": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "lastInvert": 0,
+    "lastDaily": 0,
+    "inventory": []
+  },
+  "1208135659953463316": {
+    "money": 100000,
+    "bank": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "lastInvert": 0,
+    "lastDaily": 0,
+    "inventory": []
+  },
+  "1228087828706234388": {
+    "money": 154,
+    "bank": 0,
+    "lastWork": 1753063788217,
+    "lastCrime": 0,
+    "lastInvert": 0,
+    "lastDaily": 0,
+    "inventory": [
+      {
+        "item": "halo",
+        "color": null,
+        "purchaseDate": 1753100230884
+      }
+    ]
+  },
+  "682407343862186010": {
+    "money": 105553,
+    "bank": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "lastInvert": 0,
+    "lastDaily": 0,
+    "inventory": []
+  },
+  "BOT_BANK_SYSTEM": {
+    "money": 33587299,
+    "bank": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "lastInvert": 0,
+    "lastDaily": 0,
+    "inventory": [],
+    "isBot": true
+  },
+  "1374606987886854195": {
+    "money": 0,
+    "bank": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "lastInvert": 0,
+    "lastDaily": 0,
+    "inventory": []
+  },
+  "290250829921910795": {
+    "money": 584252,
+    "bank": 0,
+    "lastWork": 1779143305840,
+    "lastCrime": 1775486257874,
+    "lastInvert": 1775065467816,
+    "lastDaily": 1775019243970,
+    "inventory": [
+      {
+        "item": "empresa",
+        "color": null,
+        "purchaseDate": 1775019294132
+      },
+      {
+        "item": "seguroFinanciero",
+        "color": null,
+        "purchaseDate": 1775065085778,
+        "usesLeft": 3,
+        "companyOwner": "290250829921910795"
+      },
+      {
+        "item": "seguroFinanciero",
+        "color": null,
+        "purchaseDate": 1775065109244,
+        "usesLeft": 3,
+        "companyOwner": "290250829921910795"
+      },
+      {
+        "item": "seguroFinanciero",
+        "color": null,
+        "purchaseDate": 1775065114394,
+        "usesLeft": 3,
+        "companyOwner": "290250829921910795"
+      },
+      {
+        "item": "seguroFinanciero",
+        "color": null,
+        "purchaseDate": 1775065403315,
+        "usesLeft": 3,
+        "companyOwner": "290250829921910795"
+      }
+    ]
+  },
+  "541672544781205535": {
+    "money": 0,
+    "bank": 2130222,
+    "lastWork": 1774490631213,
+    "lastCrime": 1774489999600,
+    "lastInvert": 0,
+    "lastDaily": 0,
+    "inventory": []
+  },
+  "1475723923315490846": {
+    "money": 0,
+    "bank": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "lastInvert": 0,
+    "lastDaily": 0,
+    "inventory": []
+  }
+}

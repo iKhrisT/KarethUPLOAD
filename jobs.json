@@ -1,0 +1,12 @@
+{
+  "290250829921910795": {
+    "currentJob": "programador",
+    "jobs": {
+      "programador": {
+        "level": 2,
+        "xp": 31,
+        "xpToNextLevel": 132
+      }
+    }
+  }
+}
